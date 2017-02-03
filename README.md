@@ -1,5 +1,6 @@
 # csci3308
 Thomas Vu
+Also partner, NEVER forget partner....
 <<<<<<< HEAD
 Lab 3 :)
 =======
